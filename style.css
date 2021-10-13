@@ -1,7 +1,10 @@
-body{
-  background-color: rgb(193, 226, 215);
-}
+body {
+   background-color: rgb(193, 226, 215);
 
-input{
+}
+div{
+  background-image: linear-gradient(rgb(238, 223, 1), hsl(4, 97%, 59%));
+}
+input {
   border-radius: 5px;
 }
