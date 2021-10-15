@@ -1,9 +1,9 @@
 body {
-   background-color: rgb(193, 226, 215);
-
+  background-image: linear-gradient(rgb(231, 227, 163), hsl(4, 83%, 67%)),
+    url(backgound.png);
 }
-div{
-  background-image: linear-gradient(rgb(238, 223, 1), hsl(4, 97%, 59%));
+div {
+  background-color: rgb(240, 175, 186);
 }
 input {
   border-radius: 5px;
